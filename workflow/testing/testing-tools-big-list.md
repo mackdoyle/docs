@@ -123,14 +123,6 @@ psi jmd.io
 
 ----
 
-## SAS Solutions
-
-#### New Relic
-
-#### SpeedCurve - Front End Monitoring
-
-----
-
 # Articles & Talks
 
 * [Unit and Functional testing with CasperJS](http://www.helpscout.net/blog/functional-testing-casperjs/)
