@@ -1,6 +1,4 @@
-# Morris Media Network Documentation
-
-This is the documentation hub for the eMedia team.
+# List of Useful Resources
 
 ## Contents
 
